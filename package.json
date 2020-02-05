@@ -1,0 +1,12 @@
+{
+    "name": "game_store",
+    "version": "1.0.0",
+    "description": "Game Store",
+    "scripts": {
+        "start": "serve"
+    },
+    "dependencies": {
+        "serve": "^10.0.1"
+    },
+    "author": "Carlos Figueroa"
+}
