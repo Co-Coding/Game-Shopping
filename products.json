@@ -1,0 +1,70 @@
+{
+    "items": [{
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "World Of Warcraft",
+                "price": 800,
+                "image": { "fields": { "file": { "url": "./images/wow.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "Grand Theft Auto V",
+                "price": 500,
+                "image": { "fields": { "file": { "url": "./images/gta5.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "League of Legends",
+                "price": 400,
+                "image": { "fields": { "file": { "url": "./images/lol.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Death Stranding",
+                "price": 2000,
+                "image": { "fields": { "file": { "url": "./images/deathstranding.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Minecraft",
+                "price": 1100,
+                "image": { "fields": { "file": { "url": "./images/minecraft.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Batman Arkham Knight ",
+                "price": 1500,
+                "image": { "fields": { "file": { "url": "./images/batman.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Assasin's Creed",
+                "price": 1200,
+                "image": { "fields": { "file": { "url": "./images/assasinscreed.jpeg" } } }
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
